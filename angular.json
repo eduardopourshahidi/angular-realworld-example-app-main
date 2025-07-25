@@ -14,7 +14,7 @@
           "builder": "@angular/build:application",
           "options": {
             "outputPath": {
-              "base": "dist/-conduit"
+              "base": "dist/angular-conduit"
             },
             "index": "src/index.html",
             "polyfills": ["zone.js"],
